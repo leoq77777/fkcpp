@@ -1,0 +1,3 @@
+D:/CODE/c++/allKindsofSort/cmake-build-debug/CMakeFiles/allKindsofSort.dir
+D:/CODE/c++/allKindsofSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CODE/c++/allKindsofSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
